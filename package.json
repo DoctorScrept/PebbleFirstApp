@@ -1,0 +1,21 @@
+{
+    "author": "renjeka@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "fruits_1",
+    "pebble": {
+        "displayName": "Fruits_1",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "57bf9752-5bc6-4236-8084-0b0d8ff21c2d",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
